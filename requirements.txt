@@ -1,0 +1,3 @@
+FastAPI[standard]==0.95.2
+uvicorn[standard]
+pydantic[standard]
